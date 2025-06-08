@@ -13,6 +13,8 @@ Abstract: Recent advancements in world models have revolutionized dynamic enviro
 
 **[Paper](https://arxiv.org/abs/2505.22421)**
 
+[![Watch the video](https://img.youtube.com/vi/LECkvCff6v0/0.jpg)](https://www.youtube.com/watch?v=LECkvCff6v0)
+
 ## TODO List
 
 - **[2025-05-30]** ✅ Release [paper](https://arxiv.org/abs/2505.22421)
